@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+li{
+    color: black;
+    text-align: left;
+}
+
+h3{
+    color: darkred;
+    text-align: left;
+}
+
+h1{
+    font-size: 48px;
+    color: darkred;
+}
+.Description{
+    text-align: left;
+}
