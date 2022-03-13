@@ -1,7 +1,6 @@
 body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
 img{
@@ -12,17 +11,29 @@ img{
 li{
     color: black;
     text-align: left;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 h3{
     color: darkred;
     text-align: left;
+    margin-left: 400px;
+    margin-right: 400px;
 }
+
 
 h1{
     font-size: 48px;
     color: darkred;
+    border-bottom: 1px solid black;
+    padding-bottom: 4px;
+    margin-left: 0px;
+    
 }
 .Description{
-    text-align: left;
+    text-align: justify;
+    margin-left: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
